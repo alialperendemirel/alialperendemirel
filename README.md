@@ -10,8 +10,7 @@ I specialize in understanding how systems are compromised to better protect them
 
 - 🔭 **I’m currently working on:** Building automated security tools and analyzing malware behavior.
 - 🌱 **I’m currently learning:** Advanced Network Traffic Analysis, Privilege Escalation techniques, and Threat Hunting.
-- 🕵️ **My Focus:**
-    - **SOC Analysis:** Monitoring, detecting, and responding to cyber threats.
+- 🕵️ **My Focus:*
     - **Penetration Testing:** Ethical hacking to identify vulnerabilities in web and network infrastructures.
     - **Python for Security:** Writing scripts to automate attacks, scans, and defense mechanisms.
 
